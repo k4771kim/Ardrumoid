@@ -16,5 +16,5 @@ Rhythm Game with Android Application and Arduino Hardware.
 
 Android drum game with arduino drum using piezo sensor.
 
-[1]:  
-[2]:
+[1]:https://play.google.com/store/apps/details?id=com.ardrumoid&hl=ko
+[2]:https://www.youtube.com/watch?v=f2dA1MZTgeU
