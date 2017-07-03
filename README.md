@@ -19,7 +19,7 @@ Rhythm Game with Android Application and Arduino Hardware.
 
 이 작품은 'Google HackFair 2015'에 전시작으로 선정되었습니다.
 
-###Develop by 김보균, 모진섭 (2015. 10.)
+### Develop by 김보균, 모진섭 (2015. 10.)
 
 
 [1]:https://play.google.com/store/apps/details?id=com.ardrumoid&hl=ko
